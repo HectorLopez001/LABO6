@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BaseDatosConnectionString3-Web.config Connection String" description="BaseDatosConnectionString3 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=tcp:serverhector.database.windows.net,1433;Initial Catalog=BaseDatos;Persist Security Info=True;User ID=hector@serverhector;Password=kukorules009*" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Kuko03_Racing\\Desktop\\HADS\ carpeta\ final\\Entrega\ Final\\LAB6\\WebApplication\\WebApplication1\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BaseDatosConnectionString3']/@connectionString" />
+  </parameter>
+</parameters>
